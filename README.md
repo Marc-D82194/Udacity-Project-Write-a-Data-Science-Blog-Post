@@ -35,7 +35,7 @@ The data set for seattle consists of three individual csv-files:
 
 The main findings of the code can be found at the post available
 
-[here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+[here](https://medium.com/@marc.hammer/seattle-airbnb-a-exploratory-data-analysis-037749a92dc4).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
